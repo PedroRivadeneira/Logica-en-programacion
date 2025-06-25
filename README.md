@@ -1,6 +1,8 @@
 
 25/06/2025
 
+LINK DEL VIDEO DE PRESENTACION: https://drive.google.com/file/d/1leK__g0Idaiig2t2V6Qzx0V9WkMyKVKw/view?usp=sharing
+
 Programa “Adivina el número”**
 
 
