@@ -3,7 +3,7 @@
 
 LINK DEL VIDEO DE PRESENTACION: https://drive.google.com/file/d/1leK__g0Idaiig2t2V6Qzx0V9WkMyKVKw/view?usp=sharing
 
-Programa “Adivina el número”**
+Programa “Adivina el número”
 
 
 Objetivo del programa:
@@ -39,5 +39,11 @@ El propósito del programa es que la computadora adivine un número entre 1 y 10
 4. Terminación:
 
    * El programa finaliza cuando el usuario confirma que el número propuesto es correcto.
+
+
+
+
+
+
 
 
